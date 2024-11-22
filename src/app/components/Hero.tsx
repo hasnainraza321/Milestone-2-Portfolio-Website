@@ -17,7 +17,7 @@ const Hero = () => {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-6xl mb-4 font-extrabold text-white">
             <span className="bg-gradient-to-r from-pink-500 to-purple-500 text-transparent bg-clip-text">
-              Hello, It's Me
+              Hello, It’s Me
             </span>
             <br className='hidden lg:inline-block' />
             Hasnain Raza

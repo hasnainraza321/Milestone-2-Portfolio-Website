@@ -25,7 +25,7 @@ const About = () => {
         
       </h1>
       <p className="mb-5 leading-relaxe text-1xl font-semibold">
-      Hi, I'm Hasnain Raza, a social media marketer and web developer dedicated to crafting meaningful 
+      Hi, I am Hasnain Raza, a social media marketer and web developer dedicated to crafting meaningful 
       digital experiences. I excel at building online communities and creating engaging content that 
       enhances brand visibility. Currently, I am expanding my expertise in HTML, CSS, TypeScript, and Next.js, 
       alongside learning cutting-edge technologies like cloud computing, applied generative AI, and agentic robotic 

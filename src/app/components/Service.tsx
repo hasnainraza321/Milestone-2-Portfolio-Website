@@ -36,7 +36,7 @@ const Service = () => {
                   <p className="leading-relaxed ">
                     I offer comprehensive web development services tailored to meet your business needs.
                     Utilizing modern technologies like HTML, CSS, TypeScript, and Next.js, I create responsive and user-friendly websites. My focus is on delivering high-quality solutions that enhance user experience and drive engagement.
-                    Let's transform your vision into a powerful online presence!
+                    Let’s transform your vision into a powerful online presence!
                   </p>
                   <Link target="_blank" href={"#Contact"}>
                     <div className="flex justify-center mt-4">
